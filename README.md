@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Geophysics.
+- - 🌱 I’m currently learning Electromagnetic methods.
 <!--
 **Kang-geophysics/Kang-geophysics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
