@@ -1,6 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Geophysics.
 - 🌱 I’m currently learning Electromagnetic methods.
+  
+Hello,
+
+I'm a geophysics student specializing in electromagnetics. My interest lies in exploring the processes and dynamics of the Earth through the lens of electromagnetics. As a geophysicist, I aspire to contribute to the advancement of our understanding of the Earth and its resources. 
+
 <!--
 **Kang-geophysics/Kang-geophysics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
