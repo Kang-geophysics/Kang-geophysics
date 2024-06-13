@@ -11,6 +11,11 @@
 
   > Hello, I am a **geophysics** student with a passion for unraveling the mysteries of the Earth through **electromagnetic methods**. My keen interest lies in leveraging the power of electromagnetic method to explore subsurface structures, detect mineral deposits or ground water, and understand the dynamic processes shaping our planet.  I am drawn to the application of these techniques in sustainable resource exploration, environmental monitoring, and the integrity assessment of man-made structures like seawalls and dams.
 
+<h3 align="left">Pape</h3>
+- "Kang, Hyeonwoo, et al. "Reliability estimation of the prediction results by 1D deep learning ATEM inversion using maximum depth of investigation." Second International Meeting for Applied Geoscience & Energy. Society of Exploration Geophysicists and American Association of Petroleum Geologists, 2022." [Link(🔗)](https://library.seg.org/doi/10.1190/image2022-3751297.1)
+
+"Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, and Joongmoo Byun, (2024), "Deep-learning-based airborne transient electromagnetic inversion providing the depth of investigation," GEOPHYSICS 89: E31-E45." [Link(🔗)](https://library.seg.org/doi/10.1190/geo2022-0723.1)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hyeon-woo-kang-198b16106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hyeon-woo-kang-198b16106" height="30" width="40" /></a>
