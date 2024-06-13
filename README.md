@@ -14,7 +14,7 @@
 <h3 align="left">Papers</h3>
 - "Kang, Hyeonwoo, et al. "Reliability estimation of the prediction results by 1D deep learning ATEM inversion using maximum depth of investigation." Second International Meeting for Applied Geoscience & Energy. Society of Exploration Geophysicists and American Association of Petroleum Geologists, 2022." [Link(🔗)](https://library.seg.org/doi/10.1190/image2022-3751297.1)
 
-"Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, and Joongmoo Byun, (2024), "Deep-learning-based airborne transient electromagnetic inversion providing the depth of investigation," GEOPHYSICS 89: E31-E45." [Link(🔗)](https://library.seg.org/doi/10.1190/geo2022-0723.1)
+- "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, and Joongmoo Byun, (2024), "Deep-learning-based airborne transient electromagnetic inversion providing the depth of investigation," GEOPHYSICS 89: E31-E45." [Link(🔗)](https://library.seg.org/doi/10.1190/geo2022-0723.1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
