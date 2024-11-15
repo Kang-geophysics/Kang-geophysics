@@ -13,11 +13,15 @@
 
 <h3 align="left">Papers</h3>
 
-- "Kang, Hyeonwoo, et al. "Reliability estimation of the prediction results by 1D deep learning ATEM inversion using maximum depth of investigation." Second International Meeting for Applied Geoscience & Energy. Society of Exploration Geophysicists and American Association of Petroleum Geologists, 2022." [Link(🔗)](https://library.seg.org/doi/10.1190/image2022-3751297.1)
+- "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, and Joongmoo Byun, 2022, Reliability estimation of the prediction results by 1D deep learning ATEM inversion using maximum depth of investigation: Second International Meeting for Applied Geoscience & Energy 2022." [Link(🔗)](https://library.seg.org/doi/10.1190/image2022-3751297.1)
 
-- "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, and Joongmoo Byun, (2024), "Deep-learning-based airborne transient electromagnetic inversion providing the depth of investigation," GEOPHYSICS 89: E31-E45." [Link(🔗)](https://library.seg.org/doi/10.1190/geo2022-0723.1)
+- "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, and Joongmoo Byun, 2024, Deep-learning-based airborne transient electromagnetic inversion providing the depth of investigation: GEOPHYSICS, **89**, no. 2, E31-E45." [Link(🔗)](https://library.seg.org/doi/10.1190/geo2022-0723.1)
 
-<h3 align="left">Connect with me:</h3>
+- "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, Kyounghak Lim, and Hwan-Ho Yong, 2024, Application of electromagnetic method to seaward slope monitoring of Saemangeum Seawall: International Meeting for Applied Geoscience & Energy 2024." [Link(🔗)](https://www.researchgate.net/publication/383565299_Application_of_electromagnetic_method_to_seaward_slope_monitoring_of_Saemangeum_Seawall?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)
+
+- "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, Kyounghak Lim, and Hwan-Ho Yong, 2024, Application of electromagnetic method to seaward slope: Case study from Saemangeum Seawall in South Korea: GEOPHYSICS, **90**, no. 2, .[Link(🔗)]()
+
+<h3 align="left">Connect with me:</h3>90
 <p align="left">
 <a href="https://linkedin.com/in/hyeon-woo-kang-198b16106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hyeon-woo-kang-198b16106" height="30" width="40" /></a>
 </p>
