@@ -19,7 +19,7 @@
 
 - "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, Kyounghak Lim, and Hwan-Ho Yong, 2024, Application of electromagnetic method to seaward slope monitoring of Saemangeum Seawall: International Meeting for Applied Geoscience & Energy 2024." [Link(🔗)](https://www.researchgate.net/publication/383565299_Application_of_electromagnetic_method_to_seaward_slope_monitoring_of_Saemangeum_Seawall?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)
 
-- "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, Kyounghak Lim, and Hwan-Ho Yong, 2024, Application of electromagnetic method to seaward slope: Case study from Saemangeum Seawall in South Korea: GEOPHYSICS, **90**, no. 2, .[Link(🔗)]()
+- "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, Kyounghak Lim, and Hwan-Ho Yong, 2024, Application of electromagnetic method to seaward slope: Case study from Saemangeum Seawall in South Korea: GEOPHYSICS, **90**, no. 2, (unkown)."[Link(🔗)]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
