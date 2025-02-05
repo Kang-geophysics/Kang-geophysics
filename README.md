@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/01248059-ca9d-406e-b107-bb8dcc717e3b)<h1 align="center">Hi 👋, I'm Kevin Kang</h1>
+<h1 align="center">Hi 👋, I'm Kevin Kang</h1>
 <h3 align="center">Electromagnetic Geoscientist | Exploring Earth's secrets with EM</h3>
 
 - 🔭 I’m currently working on **Geophysics**
