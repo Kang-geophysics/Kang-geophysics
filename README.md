@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Kang</h1>
+<h1 align="center">Hi 👋, I'm Hyeonwoo Kang</h1>
 <h3 align="center">Electromagnetic Geoscientist | Exploring Earth's secrets with EM</h3>
 
 - 🔭 I’m currently working on **Geophysics**
@@ -9,7 +9,7 @@
 
 <h3 align="left">Self-Introductions</h3>
 
-  > Hello, I am a **geophysics** student with a passion for unraveling the mysteries of the Earth through **electromagnetic methods**. My keen interest lies in leveraging the power of electromagnetic method to explore subsurface structures, detect mineral deposits or ground water, and understand the dynamic processes shaping our planet.  I am drawn to the application of these techniques in sustainable resource exploration, environmental monitoring, and the integrity assessment of man-made structures like seawalls and dams.
+  > Hello, I am a postdoctoral fellow studying **geophysics**  with a passion for unraveling the mysteries of the Earth through **electromagnetic methods**. My keen interest lies in leveraging the power of electromagnetic method to explore subsurface structures, detect mineral deposits or ground water, and understand the dynamic processes shaping our planet.  I am drawn to the application of these techniques in sustainable resource exploration, environmental monitoring, and the integrity assessment of man-made structures like seawalls and dams.
 
 <h3 align="left">Papers</h3>
 
