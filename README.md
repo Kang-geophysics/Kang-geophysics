@@ -17,7 +17,7 @@
 
 - "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, and Joongmoo Byun, 2024, Deep-learning-based airborne transient electromagnetic inversion providing the depth of investigation: GEOPHYSICS, **89**, no. 2, E31-E45." [Link(🔗)](https://library.seg.org/doi/10.1190/geo2022-0723.1)
 
-- "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, Kyounghak Lim, and Hwan-Ho Yong, 2024, Application of electromagnetic method to seaward slope monitoring of Saemangeum Seawall: International Meeting for Applied Geoscience & Energy 2024." [Link(🔗)](https://www.researchgate.net/publication/383565299_Application_of_electromagnetic_method_to_seaward_slope_monitoring_of_Saemangeum_Seawall?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)
+- "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, Kyounghak Lim, and Hwan-Ho Yong, 2024, Application of electromagnetic method to seaward slope monitoring of Saemangeum Seawall: International Meeting for Applied Geoscience & Energy 2024." [Link(🔗)](https://chooser.crossref.org/?doi=10.1190%2Fgeo2024-0126.1)
 
 - "Hyeonwoo Kang, Minkyu Bang, Soon Jee Seol, Kyounghak Lim, and Hwan-Ho Yong, 2024, Application of electromagnetic method to seaward slope: Case study from Saemangeum Seawall in South Korea: GEOPHYSICS, **90**, no. 2, B69-B80."[Link(🔗)]()
 
